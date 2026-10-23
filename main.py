@@ -8,5 +8,5 @@ num2 = int(input("Введите второе целое число: "))
 print(f"Вы ввели числа: {num1} и {num2}")
 
 # Сложение
-result = num1 + num2
-print("Сумма:", result)
+result = num1 - num2
+print("Разность:", result)
